@@ -7,4 +7,4 @@ Current defaults:
 - Use numbered `<c>` tags: true
 - EAD3 schema: false
 
-Be sure not to override new export options in subsequent releases.
+Be sure not to override export options that may be introduced in subsequent releases.
